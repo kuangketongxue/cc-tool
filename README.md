@@ -1,5 +1,13 @@
 # cc-tool
 
+<p align="center">
+  <a href="https://github.com/kuangketongxue/cc-tool/releases"><img src="https://img.shields.io/github/v/release/kuangketongxue/cc-tool?label=release&color=blue" alt="release"></a>
+  <a href="https://github.com/kuangketongxue/cc-tool/stargazers"><img src="https://img.shields.io/github/stars/kuangketongxue/cc-tool?style=flat&logo=github&color=yellow" alt="stars"></a>
+  <a href="https://github.com/kuangketongxue/cc-tool/issues"><img src="https://img.shields.io/github/issues/kuangketongxue/cc-tool?style=flat&logo=github" alt="issues"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="license"></a>
+</p>
+
+
 Claude Code 实用工具：上下文容量显示 + 任务提示音。
 
 ## 功能
